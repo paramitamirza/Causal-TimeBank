@@ -10,10 +10,10 @@ Note that we only consider gold annotated EVENTs, TIMEX3s, SIGNALs and TLINKs fr
 
 Contained in the corpus are:
 
-6,811 EVENTs (only instantiated events by MAKEINSTANCE tag of TimeML)
-5,118 TLINKs (temporal links)
-171 CSIGNALs (causal signals)
-318 CLINKs (causal links)
+- 6,811 EVENTs (only instantiated events by MAKEINSTANCE tag of TimeML)
+- 5,118 TLINKs (temporal links)
+- 171 CSIGNALs (causal signals)
+- 318 CLINKs (causal links)
 
 Whenever making reference to this resource please cite one of the papers in the references section.
 
