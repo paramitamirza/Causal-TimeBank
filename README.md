@@ -1,6 +1,6 @@
 # Causal-TimeBank
 
-##Description
+## Description
 
 Causal-TimeBank is the TimeBank corpus taken from TempEval-3 task, which is part of TempEval-3 English training data: TBAQ-cleaned, annotated with causal information. The annotation was performed using the CAT tool (Bartalesi Lenzi et al., 2012), a web-based application with a plugin to import annotated data in CAT-XML format and add new information on top of it, in this case causal information. The CAT-XML task file for annotating causal information on top of TimeML data (using CAT tool) is available here [CAT User Manual: How to Manage Annotation Tasks].
 
