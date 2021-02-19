@@ -19,8 +19,8 @@ Whenever making reference to this resource please cite one of the papers in the 
 
 ### References
 
-**Paramita Mirza**, Rachele Sprugnoli, Sara Tonelli and Manuela Speranza. 2014. Annotating causality in the TempEval-3 corpus. In _Proceedings of the EACL 2014 Workshop on Computational Approaches to Causality in Language (CAtoCL)_, pages 10–19, Gothenburg, Sweden, April. Association for Computational Linguistics. [pdf](http://www.aclweb.org/anthology/W14-0702) [bib](http://aclweb.org/anthology//W/W14/W14-0702.bib)
-**Paramita Mirza** and Sara Tonelli. 2014. An Analysis of Causality between Events and its Relation to Temporal Information. In _Proceedings of the 25th International Conference on Computational Linguistics_, Dublin, Ireland.
+- **Paramita Mirza**, Rachele Sprugnoli, Sara Tonelli and Manuela Speranza. 2014. Annotating causality in the TempEval-3 corpus. In _Proceedings of the EACL 2014 Workshop on Computational Approaches to Causality in Language (CAtoCL)_, pages 10–19, Gothenburg, Sweden, April. Association for Computational Linguistics. [pdf](http://www.aclweb.org/anthology/W14-0702) [bib](http://aclweb.org/anthology//W/W14/W14-0702.bib)
+- **Paramita Mirza** and Sara Tonelli. 2014. An Analysis of Causality between Events and its Relation to Temporal Information. In _Proceedings of the 25th International Conference on Computational Linguistics_, Dublin, Ireland.
 
 Contact us: 
 paramita135[at]gmail.com
